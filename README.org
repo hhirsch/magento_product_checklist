@@ -1,0 +1,8 @@
+* Get a product visible in the frontend
+- enable the product
+- set it visible in catalogue and search
+- add it to the website you want it in
+- add it to the category you wan it in
+- set the status in stock
+- add a quantity to the stock
+- reindex all
