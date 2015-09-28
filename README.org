@@ -6,3 +6,5 @@
 - set the status in stock
 - add a quantity to the stock
 - reindex all
+** Bundled Product
+- have simple products enabled and asociated to the bundle
