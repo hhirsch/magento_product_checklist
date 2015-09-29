@@ -5,6 +5,7 @@
 - add it to the category you wan it in
 - set the status in stock
 - add a quantity to the stock
+- if you run multistore make sure the settings are not overwritten by website, store group or store view settings.
 - reindex all
 ** Bundled Product
 - have simple products enabled and asociated to the bundle
