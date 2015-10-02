@@ -6,6 +6,6 @@
 - set the status in stock
 - add a quantity to the stock
 - if you run multistore make sure the settings are not overwritten by website, store group or store view settings.
-- reindex all
+- reindex all. If the product still does not show up make sure to use *php shell/indexer.php --reindex all* to reindex. Because magerun will stop reindexing if one index throws an error.
 ** Bundled Product
 - have simple products enabled and asociated to the bundle
