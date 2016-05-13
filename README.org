@@ -9,3 +9,6 @@
 - reindex all. If the product still does not show up make sure to use *php shell/indexer.php --reindex all* to reindex. Because magerun will stop reindexing if one index throws an error.
 ** Bundled Product
 - have simple products enabled and asociated to the bundle
+** Configurable Product
+Apply the list like for the simple product to the configurable product and to its children.
+The child products don't have to be set individually visible for this to work.
